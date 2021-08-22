@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=great-dsp&label=Profile%20views&color=0e75b6&style=flat" alt="great-dsp" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=great-dsp" alt="great-dsp" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/greatdsp0" target="blank"><img src="https://img.shields.io/twitter/follow/greatdsp0?logo=twitter&style=for-the-badge" alt="greatdsp0" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/great-dsp](https://github.com/great-dsp)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7058872764439340948](https://www.blogger.com/blog/posts/7058872764439340948)
@@ -27,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=great-dsp&show_icons=true&locale=en&layout=compact" alt="great-dsp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=great-dsp&show_icons=true&locale=en" alt="great-dsp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=great-dsp&" alt="great-dsp" /></p>
